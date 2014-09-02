@@ -8,5 +8,6 @@
 
     <Grid x:Name="LayoutRoot" Background="White">
         <TextBlock Text="Test Project" />
+        <TextBlock Text="Comit modif"/>
     </Grid>
 </UserControl>
