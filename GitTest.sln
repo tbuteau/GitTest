@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTest", "GitTest\GitTest.csproj", "{ECD7A560-D243-4C65-A628-D347957FBF42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTest.Web", "GitTest.Web\GitTest.Web.csproj", "{83E3FA60-BFC0-4B63-8F52-87146CF4AFDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTest.Entities", "GitTest.Entities\GitTest.Entities.csproj", "{B0A3A3F7-A65A-45DF-89EB-A3829D9D8D51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD7A560-D243-4C65-A628-D347957FBF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD7A560-D243-4C65-A628-D347957FBF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD7A560-D243-4C65-A628-D347957FBF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD7A560-D243-4C65-A628-D347957FBF42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E3FA60-BFC0-4B63-8F52-87146CF4AFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E3FA60-BFC0-4B63-8F52-87146CF4AFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E3FA60-BFC0-4B63-8F52-87146CF4AFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E3FA60-BFC0-4B63-8F52-87146CF4AFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A3A3F7-A65A-45DF-89EB-A3829D9D8D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A3A3F7-A65A-45DF-89EB-A3829D9D8D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A3A3F7-A65A-45DF-89EB-A3829D9D8D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A3A3F7-A65A-45DF-89EB-A3829D9D8D51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
