@@ -8,7 +8,7 @@
 
     <Grid x:Name="LayoutRoot" Background="White">
         <StackPanel><TextBlock Text="Test Project" />
-            <TextBlock Text="Comit modif and more modif" />
+            <TextBlock Text="" />
         </StackPanel>
     </Grid>
 </UserControl>
