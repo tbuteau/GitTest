@@ -21,7 +21,8 @@ namespace GitTest
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            button1.Content = "You did it !"; 
+            button1.Content = "You did it !";
+            button1.IsEnabled = false; 
         }
     }
 }
