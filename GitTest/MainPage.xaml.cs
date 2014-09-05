@@ -18,5 +18,10 @@ namespace GitTest
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            button1.Content = "You did it !"; 
+        }
     }
 }

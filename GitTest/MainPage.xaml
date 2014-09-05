@@ -9,7 +9,7 @@
     <Grid x:Name="LayoutRoot" Background="White">
         <StackPanel><TextBlock Text="Test Project" />
             <TextBlock Text="Do one more test " />
-            <Button Content="New Button" />
+            <Button Content="New Button" Name="button1" Click="Button_Click" />
         </StackPanel>
     </Grid>
 </UserControl>
